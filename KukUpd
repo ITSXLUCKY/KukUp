@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
+  "version": "5.4.0",
   "title": "New Update Available!",
-  "NewVersion": "2.0.1",
-  "downloadLink": "https://telegram.me/StraxMod",
+  "NewVersion": "5.4.0",
+  "downloadLink": "https://telegram.me/",
   "changeLogMessage": "-Enhanced stability with bug fixes\n- Improved overall performance for a smoother experience\n- Exciting new features and enhancements",
   "negativebtn": "Later",
   "positivebtn": "Update Now",
